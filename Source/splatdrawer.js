@@ -484,6 +484,7 @@ var data = {
 		"zMax" : 1.0,
 		"zMin" : -1.0
 	},
+    // Containes a cube of 8 splats with an additional splat in the center
     "buffer" : "AAAAAAAAAAAAAAAAVZUKPlWVCj5VlQo+f3/Huv+AgIAAAIC/AACAvwAAgL8uHKg9LhyoPS4cqD3Hf3+6/4CAgAAAgL8AAIA/AACAvy4cqD0uHKg9LhyoPcd/f7r/gICAAACAPwAAgD8AAIC/LhyoPS4cqD0uHKg9x39/uv+AgIAAAIA/AACAvwAAgL8uHKg9LhyoPS4cqD3Hf3+6/4CAgAAAgL8AAIC/AACAPy4cqD0uHKg9LhyoPX/Hf7r/gICAAACAvwAAgD8AAIA/LhyoPS4cqD0uHKg9f8d/uv+AgIAAAIA/AACAPwAAgD8uHKg9LhyoPS4cqD1/x3+6/4CAgAAAgD8AAIC/AACAPy4cqD0uHKg9LhyoPX/Hf7r/gICA",
 	"bufferSize" : 288,
 	"elemSize" : 32,
