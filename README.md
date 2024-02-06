@@ -8,4 +8,6 @@ The included version of Cesium in the 3rdParty directory contains some changes t
 - vertexAttribIPointer
 
 To run:
-
+```
+python -m http.server 8080
+```
